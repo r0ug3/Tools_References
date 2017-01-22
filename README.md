@@ -106,7 +106,7 @@ __Reference to Tools__
     * \[L]: Reverse Flag: is set only when Linux compatible
     * \[W]: Reverse Flag: is set only when Windows compatible
 
-### Binary
+* __Binary__
     * \[I] https://malwr.com/: online binary analysis
     * \[I] https://retdec.com/: online decompiler for c/c++ binaries
     * \[I] http://www.javadecompilers.com/: java decompiler online

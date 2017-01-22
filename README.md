@@ -1,4 +1,4 @@
-__Hosted Tools & Listings__
+__Hosted Tools & References__
 ===============
 
 The purpose of this repository is to act as an archive of tools built on my own or forked from other repositories. 
@@ -24,7 +24,7 @@ __Reference to Tools__
 =========
 
 * __Audio Files ([`.wav`][wav], [`.flac`][flac], etc..)__
-    - Julian's [MATLAB] code for Least Significant Bit
+    - [MATLAB] code for Least Significant Bit
     - [Sonic Visualiser]... to easily view the [spectrogram] of an audio file
 * __Steganography__
      * [`stegsolve.jar`][Stegsolve]
@@ -43,8 +43,8 @@ __Reference to Tools__
      * [Wireshark]
      * [`bro`][bro]
      * [CapLoader]
-* __[PDF] Files__
-    * pdfdetach ... to extract embedded files within a [PDF] file
+* __PDF Files__
+    * pdfdetach with [XPDF] ... to extract embedded files within a PDF file
     * [PDFCrack]
 * __Exploit/Shellcode__
      * [Meterpreter]/[Metasploit]
@@ -199,7 +199,7 @@ __Reference to Tools__
 [XOR]: https://en.wikipedia.org/wiki/Exclusive_or
 [XOR cipher]: https://en.wikipedia.org/wiki/XOR_cipher
 [quipqiup.com]: http://www.quipqiup.com/
-[PDF]: https://en.wikipedia.org/wiki/Portable_Document_Format
+[XPDF]: http://www.foolabs.com/xpdf/download.html
 [pdfimages]: http://linux.die.net/man/1/pdfimages
 [ampersand]: https://en.wikipedia.org/wiki/Ampersand
 [URL encoding]: https://en.wikipedia.org/wiki/Percent-encoding

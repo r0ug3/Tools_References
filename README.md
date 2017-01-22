@@ -94,7 +94,7 @@ __Reference to Tools__
     * [Android APK Decompiler](http://www.decompileandroid.com/)
     * [`jadx`][jadx]
 
-###* __Legend__
+* __Legend__
     * \[G]: Github/Git repository # Note, this flag automatically imply the \[O] flag
     * \[S]: Software (Imply that it's not always 100% free and that it's not open source or restrictive license)
     * \[F]: Freeware (Free software, does'nt necessarily means that it's opensource)

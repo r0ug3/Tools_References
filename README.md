@@ -105,7 +105,6 @@ __Reference to Tools__
     * \[M]: Misceallenous
     * \[L]: Reverse Flag: is set only when Linux compatible
     * \[W]: Reverse Flag: is set only when Windows compatible
-
 * __Binary__
     * \[I] https://malwr.com/: online binary analysis
     * \[I] https://retdec.com/: online decompiler for c/c++ binaries
@@ -148,8 +147,7 @@ __Reference to Tools__
     * \[F|W] [ImpREC]: reconstruct IAT table for unpacked binaries
     * \[O|C] [Flawfinder]: static source code analyzer for C/C++ which report possible security weakness
     * \[G|C] [afl]: fuzzer
-
-### Forensic
+* __Forensic__
     * \[C|O] [volatility]: forensic tool to analyse memory dump from windows/linux
     * \[C|O] [Autopsy/Sleuth]: analyse hard drives and smartphones
     * \[C|O] [Foremost]: file recovery after deletion or format
@@ -159,8 +157,7 @@ __Reference to Tools__
     * \[F|W] [MFTDump]: dump/copy $MFT file on windows
     * \[G|C] [AppCompatCacheParser]: dump shimcache entries from Registry (can use offline registry)
     * \[F|W] [[RegistryExplorer]: GUI to explore registry with search options and possibility to use offline register
-
-### Cryptography
+* __Cryptography__
     * \[C|G] [xortool]: find xor key/key length from xor text/binary
     * \[C|G] [cribdrag]: interactive crib dragging on xored text
     * \[C|G] [hash_extender]: hash extension forger
@@ -172,8 +169,7 @@ __Reference to Tools__
     * \[C|G] [rsatool]: calculates RSA (p, q, n, d, e) and RSA-CRT (dP, dQ, qInv) parameters given either two primes (p, q) or modulus and private exponent (n, d)
     * \[I] http://quipqiup.com/: basic cryptography solver
     * \[G|C] [python-paddingoracle]: python tool to exploit padding oracle
-
-### Web
+* __Web__
     * \[F|O] [DirBuster]: bruteforce/dictionnary attack on webserver to find hidden directories
     * \[I] http://pkav.net/XSS2.png: XSS spreadsheet
     * \[C|O] [sqlmap]: sql injection
@@ -198,8 +194,7 @@ __Reference to Tools__
     * \[I] https://dnsdumpster.com/: free domain research tools, find subdomains
     * \[I] https://pentest-tools.com/home: subdomain bruteforce not 100% free
     * \[G] [Hydra]: remote password cracker
-
-### Network
+* __Network__
     * \[C|O] [Netcat]: network tool, can listen or connect using TCP/UDP
     * \[C|O] [nmap]: network tool to scan ports and discover services
     * \[C|O] [Scapy]: powerful interactive packet manipulation program
@@ -207,15 +202,13 @@ __Reference to Tools__
     * \[S|O] [Wireshark]: network packet analyzer
     * \[S|W] [NetworkMiner]: sniffer/pcap analyzer, pretty good for files and see what's going on with HTTP traffic
     * \[C|O] [Hexinject]: Packer injector and sniffer. Allows to modify packets on the fly
-
-### Steganography
+* __Steganography__
     * \[C|F] [exiftags]: linux package to check jpg tags
     * \[O|C] [ExifTool]: read/edit metadata of various file formats
     * \[F|O|W] [tweakpng]: tool to resize image for steganography
     * \[F|O] [Stegsolve]: perform quick image analysis to find hidden things
     * \[F|O] [Wbstego]: retrieve/hide messages in various container
-
-### Misc
+* __Misc__
     * \[F|O|W] [Cuckoo]: interactive sandbox malware analysis
     * \[F|O|W] [Photorec]: recover erased file
     * \[C|O] [QEMU]: machine emulator and virtualizer
@@ -231,18 +224,15 @@ __Reference to Tools__
     * \[C|O] [virt-what]: simple bash script to detect virtualization environment
     * \[W|O] [ProcessHacker]: Extended taskmanager
     * \[G]: [english-words]: simple english wordlist
-
-### Sec/Tools list
+* __Sec/Tools list__
     * \[W] [pax0r]: another huge list of tools
     * \[G] [SecLists]: SecLists is the security tester's companion. It is a collection of multiple types of lists used during security assessments
     * \[G] [ctf-tools]: list of tools similar to this one
     * \[I] http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/
     * \[G] https://github.com/Hack-with-Github/Awesome-Hacking: awesome list related to hacking
-
-### Programming
+* __Programming__
     * \[I] http://www.tutorialspoint.com/: online programmation on most languages
     * \[I] https://gcc.godbolt.org/: check disassembly code produced with different versions of gcc
-
 
 ---
 

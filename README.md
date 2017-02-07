@@ -21,6 +21,10 @@ The purpose of this repository is to act as an archive of tools built on my own 
  - This is the official Github Repository of the OWASP Mobile Security Testing Guide (MSTG). The MSTG is a comprehensive manual for testing the security of mobile apps. It describes technical processes for verifying the controls listed in the [OWASP Mobile Application Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs). The MSTG is meant to provide a baseline set of test cases for black-box and white-box security tests, and to help ensure completeness and consistency of the tests.
  - Credit: (https://github.com/OWASP/owasp-mstg)
 
+#### Application-Security
+ - A curated list of hacks in IoT space so that researchers and industrial products can address the security vulnerabilities.
+ - Credit: (https://github.com/nebgnahz/awesome-iot-hacks)
+
 __Reference to Tools__
 =========
 
